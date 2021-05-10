@@ -337,6 +337,7 @@ class AddToken extends Component {
             }
             type="warning"
             withRightButton
+            className="add-token__decimal-warning"
           />
         )}
       </div>
